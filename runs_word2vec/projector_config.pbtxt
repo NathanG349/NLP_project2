@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "Word2Vec_Reviews:00000"
+  metadata_path: "00000/Word2Vec_Reviews\\metadata.tsv"
+  tensor_path: "00000/Word2Vec_Reviews\\tensors.tsv"
+}
